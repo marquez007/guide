@@ -75,7 +75,7 @@ Once the installation is complete, you'll see something like this:
 :::
 
 And that's it! With all the necessities installed, you're almost ready to start coding your bot.
-
+hola
 ---
 
 ## Installing a linter
